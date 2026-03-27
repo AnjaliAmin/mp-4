@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import IconPreview from "@/app/components/IconPreview";
-import { Icon } from "@/app/interfaces/icon";
+import { Icon } from "@/types/icon";
 import styled from "styled-components";
 
 const StyledMain=styled.main`
