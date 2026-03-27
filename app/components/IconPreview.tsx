@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Icon } from "@/app/interfaces/icon";
+import { Icon } from "@/types/icon";
 import Image from "next/image";
 
 const IconWrapper = styled.div`
